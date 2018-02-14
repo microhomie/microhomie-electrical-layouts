@@ -26,14 +26,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="84.175371"
-     inkscape:cy="102.24358"
+     inkscape:cx="125.13182"
+     inkscape:cy="109.22802"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,63 +56,171 @@
     <rect
        style="fill:#404040;fill-opacity:1"
        id="rect3336"
-       width="244.96199"
-       height="247.99245"
-       x="1.0101526"
-       y="802.85449" />
+       width="245.7196"
+       height="249.76018"
+       x="0.25253817"
+       y="801.08673" />
     <circle
        style="fill:#e6ab00;fill-opacity:1"
        id="path3338"
-       cx="8.0812235"
+       cx="8.7443275"
        cy="1040.8717"
        r="3.0304577" />
     <circle
        style="fill:#e6ab00;fill-opacity:1"
        id="path3338-7"
-       cx="14.805051"
+       cx="20.119999"
        cy="1040.8717"
        r="3.0304577" />
     <circle
        style="fill:#e6ab00;fill-opacity:1"
        id="path3338-5"
-       cx="21.528879"
+       cx="31.49567"
        cy="1040.8717"
        r="3.0304577" />
     <circle
        style="fill:#e6ab00;fill-opacity:1"
        id="path3338-3"
-       cx="28.252707"
+       cx="42.871342"
        cy="1040.8717"
        r="3.0304577" />
     <circle
        style="fill:#e6ab00;fill-opacity:1"
        id="path3338-56"
-       cx="34.976532"
+       cx="54.247013"
        cy="1040.8717"
        r="3.0304577" />
     <circle
        style="fill:#e6ab00;fill-opacity:1"
        id="path3338-2"
-       cx="41.700359"
+       cx="65.622681"
        cy="1040.8717"
        r="3.0304577" />
+    <path
+       style="fill:#afafaf;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 50.357143,826.29078 172.857147,0 0,24.64285 17.85714,0 0,188.57147 -133.21429,0 -53.214283,-87.50004 -48.5714284,0 0,-83.92857 z"
+       id="path4224"
+       inkscape:connector-curvature="0" />
     <circle
        style="fill:#e6ab00;fill-opacity:1"
        id="path3338-9"
-       cx="48.424187"
+       cx="76.998352"
        cy="1040.8717"
        r="3.0304577" />
+    <rect
+       style="opacity:1;fill:#404040;fill-opacity:1;stroke:none;stroke-width:2.96300006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4236"
+       width="130.54427"
+       height="136.83978"
+       x="107.58125"
+       y="899.3241" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="44.285717"
-       y="921.64795"
+       x="24.642859"
+       y="890.57648"
        id="text3397"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3399"
-         x="44.285717"
-         y="921.64795"
-         style="fill:#ffffff">SDS 011</tspan></text>
+         x="24.642859"
+         y="890.57648"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#ffffff">SDS 011</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1019.9742"
+       y="-4.8443279"
+       id="text4151"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4153"
+         x="1019.9742"
+         y="-4.8443279"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#ffffff">NC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1012.6777"
+       y="-16.219999"
+       id="text4151-2"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4153-6"
+         x="1012.6777"
+         y="-16.219999"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#ffffff">1um</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1019.9742"
+       y="-27.595671"
+       id="text4151-5"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4153-2"
+         x="1019.9742"
+         y="-27.595671"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#ffffff">5V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1005.4512"
+       y="-38.97134"
+       id="text4151-6"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4153-5"
+         x="1005.4512"
+         y="-38.97134"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#ffffff">25um</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1012.7477"
+       y="-50.347012"
+       id="text4151-8"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4153-7"
+         x="1012.7477"
+         y="-50.347012"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#ffffff">GND</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1012.7477"
+       y="-61.722679"
+       id="text4151-9"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4153-60"
+         x="1012.7477"
+         y="-61.722679"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#ffffff">RXD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1012.7477"
+       y="-73.098351"
+       id="text4151-4"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4153-1"
+         x="1012.7477"
+         y="-73.098351"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#ffffff">TXD</tspan></text>
+    <path
+       style="fill:#afafaf;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 61.785714,824.70793 0,-22.36259 19.464286,0 0,22.36259 z"
+       id="path4226"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
